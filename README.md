@@ -15,3 +15,21 @@
 
 [Keep searching](https://www.kaggle.com/datasets?search=species+classification&fileType=csv&page=2)
 
+
+[Pokemon_dataset](https://www.kaggle.com/datasets/cristobalmitchell/pokedex)
+
+[Flower type prediction machine hack](https://www.kaggle.com/datasets/vpkprasanna/flower-type-prediction-machine-hack)
+
+[Microbes dataset](https://www.kaggle.com/datasets/sayansh001/microbes-dataset)
+
+[ElephantsMF](https://www.kaggle.com/datasets/mostafaelseidy/elephantsmf)
+
+[Abalone](https://archive-beta.ics.uci.edu/dataset/1/abalone)
+
+
+
+## Movies dataset
+
+
+
+
