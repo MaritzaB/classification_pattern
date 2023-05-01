@@ -31,4 +31,6 @@ RUN pip install --upgrade \
     numpy \
     pandas \
     pytest \
-    -U scikit-learn
+    -U scikit-learn \
+    seaborn \
+    imblearn
