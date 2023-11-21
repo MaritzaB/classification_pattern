@@ -25,11 +25,3 @@
 [ElephantsMF](https://www.kaggle.com/datasets/mostafaelseidy/elephantsmf)
 
 [Abalone](https://archive-beta.ics.uci.edu/dataset/1/abalone)
-
-
-
-## Movies dataset
-
-
-
-
